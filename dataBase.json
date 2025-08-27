@@ -1,0 +1,100 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "juan",
+            "apellido": "guzman",
+            "edad": 30,
+            "pagoPorHora": 15.0,
+            "horasTrabajadas": 40,
+            "pagoBruto": 600.0,
+            "descuento": 90.0,
+            "bono": 0,
+            "pagoNeto": 510.0
+        },
+        {
+            "id": 2,
+            "nombre": "tommy",
+            "apellido": "guevara",
+            "edad": 28,
+            "pagoPorHora": 15.0,
+            "horasTrabajadas": 35,
+            "pagoBruto": 525.0,
+            "descuento": 78.75,
+            "bono": 0,
+            "pagoNeto": 446.25
+        },
+        {
+            "id": 3,
+            "nombre": "dayanna",
+            "apellido": "gonzalez",
+            "edad": 26,
+            "pagoPorHora": 15,
+            "horasTrabajadas": 35,
+            "pagoBruto": 525.0,
+            "descuento": 78.75,
+            "pagoNeto": 446.25,
+            "bono": 0
+        },
+        {
+            "id": 4,
+            "nombre": "armando",
+            "apellido": "guevara",
+            "edad": "58",
+            "pagoPorHora": 15,
+            "horasTrabajadas": 45.0,
+            "pagoBruto": 712.5,
+            "descuento": 106.88,
+            "pagoNeto": 645.62,
+            "bono": 40
+        },
+        {
+            "id": 5,
+            "nombre": "loki",
+            "apellido": "guevara",
+            "edad": 50,
+            "pagoPorHora": 15,
+            "horasTrabajadas": 60.0,
+            "pagoBruto": 1050.0,
+            "descuento": 157.5,
+            "bono": 40,
+            "pagoNeto": 932.5
+        },
+        {
+            "id": 6,
+            "nombre": "pablo",
+            "apellido": "fulano",
+            "edad": 46,
+            "pagoPorHora": 15,
+            "horasTrabajadas": 45.0,
+            "pagoBruto": 712.5,
+            "descuento": 106.88,
+            "bono": 40,
+            "pagoNeto": 645.62
+        },
+        {
+            "id": 7,
+            "nombre": "christopher",
+            "apellido": "moncayo",
+            "edad": 38,
+            "pagoPorHora": 20,
+            "horasTrabajadas": 50.0,
+            "pagoBruto": 1100.0,
+            "descuento": 165.0,
+            "bono": 0,
+            "pagoNeto": 935.0
+        },
+        {
+            "id": 8,
+            "nombre": "leonardo",
+            "apellido": "alvarado",
+            "edad": 35,
+            "pagoPorHora": 20,
+            "horasTrabajadas": 45.0,
+            "bono": 0,
+            "pagoBruto": 950.0,
+            "descuento": 142.5,
+            "pagoNeto": 807.5
+        }
+    ]
+}

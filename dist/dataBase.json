@@ -1,0 +1,28 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "tommy",
+            "apellido": "guevara",
+            "edad": 28,
+            "pagoPorHora": 15,
+            "horasTrabajadas": 40.0,
+            "bono": 0,
+            "pagoBruto": 600.0,
+            "descuento": 90.0,
+            "pagoNeto": 510.0
+        },
+        {
+            "id": 2,
+            "nombre": "ricardo",
+            "apellido": "vottas",
+            "edad": 45,
+            "pagoPorHora": 15,
+            "horasTrabajadas": 45.0,
+            "bono": 40,
+            "pagoBruto": 712.5,
+            "descuento": 106.88,
+            "pagoNeto": 645.62
+        }
+    ]
+}
