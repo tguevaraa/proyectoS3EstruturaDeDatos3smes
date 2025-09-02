@@ -103,7 +103,7 @@
  [],
  False,
  False,
- 1756234965,
+ 1756789968,
  [('run.exe',
    'C:\\Users\\teckt\\Desktop\\UNEMI\\3s\\proyecto '
    's3\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
